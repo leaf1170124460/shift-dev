@@ -140,3 +140,6 @@ dmypy.json
 
 # egg info
 *.egg-info/
+
+.idea/
+.history/
